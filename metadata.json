@@ -1,0 +1,7 @@
+{
+  "name": "Awas Hospital - Modern Healthcare Portal",
+  "description": "A comprehensive hospital web application featuring department overviews, doctor profiles, a patient gallery, emergency services, and an AI-powered health assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
